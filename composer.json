@@ -1,0 +1,23 @@
+{
+  "name": "yii2mod/tools",
+  "description": "Binary tools to make your life easier",
+  "homepage": "https://github.com/yii2mod/tools/",
+  "type": "yii-extension",
+  "authors": [
+    {
+      "name": "Dmitry Semenov",
+      "email": "disemx@gmail.com",
+      "homepage": "http://disem.org/"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.4.0",
+  },
+  "bin": [
+    "compiler.jar",
+    "yuicompressor-2.4.8.jar",
+    "robo.phar",
+    "selenium-server-standalone-2.45.0.jar"
+  ]
+}
