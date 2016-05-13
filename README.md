@@ -1,6 +1,10 @@
 Yii2 multitool
 =============
 
+List of useful tools for Yii Framework 2.0
+
+[![Latest Stable Version](https://poser.pugx.org/yii2mod/tools/v/stable)](https://packagist.org/packages/yii2mod/tools) [![Total Downloads](https://poser.pugx.org/yii2mod/tools/downloads)](https://packagist.org/packages/yii2mod/tools)
+
 Installation   
 ------------
 
