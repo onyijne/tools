@@ -12,7 +12,8 @@
   ],
   "minimum-stability": "dev",
   "require": {
-    "php": ">=5.4.0"
+    "php": ">=5.4.0",
+    "codegyre/robo": "*"
   },
   "bin": ["compiler.jar", "yuicompressor-2.4.8.jar", "robo.phar", "selenium-server-standalone-2.45.0.jar"]
 }
